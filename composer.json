@@ -26,7 +26,7 @@
         "psr/http-server-middleware": "^1.0",
         "pimple/pimple": "^3.0",
         "nyholm/psr7": "^1.5",
-        "nyholm/psr7-server": "^1.0",
+        "nyholm/psr7-server": "*",
         "jaxon-php/jaxon-utils": "^1.1.2"
     },
     "require-dev": {
