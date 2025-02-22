@@ -1,5 +1,5 @@
 {
-    "name": "jaxon-php/jaxon-core",
+    "name": "khoosys/jaxon-core",
     "type": "library",
     "description": "Jaxon is an open source PHP library for easily creating Ajax web applications",
     "authors": [
